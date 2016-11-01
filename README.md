@@ -1,2 +1,2 @@
-Geektactics_Theme
+Geektactics Theme
 =================
